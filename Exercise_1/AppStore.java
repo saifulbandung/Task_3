@@ -1,5 +1,5 @@
-+//Nama	: Alim Nuriqra A
- +//Nim	: 1301144032
++//Nama	: Ahmad Saifullah
+ +//Nim	: 1301144242
  +//Kelas	: IF-38-02
   
  +public class AppStore{
